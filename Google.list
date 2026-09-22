@@ -1,0 +1,48 @@
+# Google 全家桶域名 (2026-09-21, 用户要求加入 clash-rules)
+# 覆盖：核心 + Gemini/AI/DeepMind + Workspace + Cloud + Firebase + 长尾
+# 来源：用户要求（DevinLuke777/clash-rules）
+# 配套组: 谷歌 (proxy-groups), 走 '国外' 默认, 客户端可手动切
+
+google.com
+google.cn
+google.co.jp
+googleapis.com
+gstatic.com
+googleusercontent.com
+ggpht.com
+googlevideo.com
+googlesyndication.com
+googleadservices.com
+youtube.com
+youtu.be
+ytimg.com
+gmail.com
+accounts.google.com
+maps.google.com
+drive.google.com
+docs.google.com
+sheets.google.com
+photos.google.com
+translate.google.com
+play.google.com
+meet.google.com
+chat.google.com
+workspace.google.com
+cloud.google.com
+console.cloud.google.com
+developers.google.com
+gemini.google.com
+aistudio.google.com
+ai.google.dev
+deepmind.google
+deepmind.com
+notebooklm.google.com
+labs.google.com
+bard.google.com
+makersuite.google.com
+firebase.google.com
+firebaseio.com
+firebaseapp.com
+appspot.com
+fonts.googleapis.com
+fonts.gstatic.com
